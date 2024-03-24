@@ -1,0 +1,1 @@
+CREATE TABLE purchase_order LIKE purchase_order_tm;
