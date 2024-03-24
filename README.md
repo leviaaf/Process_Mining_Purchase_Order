@@ -22,3 +22,6 @@ Partitioning the data into suitable segments or subsets based on specific criter
 
 In the analysis stage, various process mining techniques and algorithms are applied to extract valuable insights from the event log data. This includes discovering process models, identifying patterns, and evaluating process performance metrics.
 
+---
+
+**Author**: [Levia AF](https://www.linkedin.com/in/leviaaf/)
